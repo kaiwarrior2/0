@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Russo One';
-    src: url('./Russo_One/RussoOne-Regular.ttf') format('truetype');
+    src: url('./RussoOne-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url('./Inter/Inter-Regular.woff2') format('woff2');
+    src: url('./Inter-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url('./Inter/Inter-Medium.woff2') format('woff2');
+    src: url('./Inter-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -26,7 +26,7 @@
 
 @font-face {
     font-family: 'Playfair Display';
-    src: url('./Playfair_Display/PlayfairDisplay-Regular.woff2') format('woff2');
+    src: url('./PlayfairDisplay-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -34,7 +34,7 @@
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('./Montserrat/Montserrat-Regular.woff2') format('woff2');
+    src: url('./Montserrat-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -42,7 +42,7 @@
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('./Montserrat/Montserrat-SemiBold.woff2') format('woff2');
+    src: url('./Montserrat-SemiBold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
